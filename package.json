@@ -1,0 +1,17 @@
+{
+  "name": "node-antigaspi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-karma": "https://github.com/jzarca01/node-karma.git",
+    "node-optimiam": "https://github.com/jzarca01/node-optimiam.git",
+    "node-phenix": "https://github.com/jzarca01/node-phenix.git",
+    "node-tgtg": "https://github.com/jzarca01/node-toogoodtogo.git"
+  }
+}
